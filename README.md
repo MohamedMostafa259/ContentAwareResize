@@ -32,7 +32,7 @@ The space complexity of the new algorithm is $O(w * h + h) \approx O(h^2)$, wher
 This represents a notable reduction compared to the previous implementation, which had a space complexity of $O(w * h^2) \approx O(h^3)$. 
 We provide detailed performance metrics and visualizations to illustrate the algorithm's effectiveness in identifying the minimum vertical seam.
  - ### Example:
-   ![Example 2](https://github.com/MohamedMostafa259/ContentAwareResize_GUI/blob/main/Example2.png)
+   ![Example 2](https://github.com/MohamedMostafa259/ContentAwareResize_GUI/blob/main/Examples/Example2.png)
 
 ## Conclusion
 In conclusion, our study presents a novel algorithm for efficiently identifying the minimum vertical 
