@@ -28,7 +28,7 @@ The implementation was done in C# programming language.
 
 ## Results
 Our experiments show that the 2nd version achieved a significant improvement in efficiency compared to the previous one. 
-The space complexity of the new algorithm is $O(w * h) \approx O(h^2)$, where w is the width and h is the height of the image. 
+The space complexity of the new algorithm is $O(w * h + h) \approx O(h^2)$, where w is the width and h is the height of the image. 
 This represents a notable reduction compared to the previous implementation, which had a space complexity of $O(w * h^2) \approx O(h^3)$. 
 We provide detailed performance metrics and visualizations to illustrate the algorithm's effectiveness in identifying the minimum vertical seam.
  - ### Example:
