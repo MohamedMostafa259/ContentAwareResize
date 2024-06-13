@@ -42,4 +42,5 @@ The proposed algorithm holds promise for enhancing various image processing appl
    My part is from $5:21$ to the end, explaining why my 2nd version of the algorithm is more efficient than the 1st one.
    An example of the program's output is from $5:05$ to $5:18$
 ## Acknowledgements
-I would like to thank to my colleague, [Mohamed Ibrahim](https://github.com/22-101058), for his assistance and support in the development of this project.
+- I developed two versions of the algorithm, and my teaching assistants in the Algorithms and Design Analysis course at Egypt University of Informatics provided the remaining files (The only file I edited is [ContentAwareResize.cs](https://github.com/MohamedMostafa259/ContentAwareResize_GUI/blob/main/ContentAwareResize/ContentAwareResize.cs)).
+- I would like to thank my colleague, [Mohamed Ibrahim](https://github.com/22-101058), for his assistance and support in this project.
