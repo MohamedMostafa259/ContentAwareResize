@@ -38,7 +38,7 @@ We provide detailed performance metrics and visualizations to illustrate the alg
 I developed two versions of the algorithm, but my teaching assistants, in the Algorithms and Design Analysis course at Egypt University of Informatics, provided the remaining files (The only file I edited is [ContentAwareResize.cs](https://github.com/MohamedMostafa259/ContentAwareResize_GUI/blob/main/ContentAwareResize/ContentAwareResize.cs)).
 
 ## Acknowledgements
-I would like to thank my colleague, [Mohamed Ibrahim](https://github.com/22-101058), for his assistance and support in this project.
+I would like to thank my colleague, [Mohamed Ibrahim](https://github.com/22-101058), for supporting and editing this project's demo video.
 
 ## Conclusion
 In conclusion, our study presents a novel algorithm for efficiently identifying the minimum vertical 
