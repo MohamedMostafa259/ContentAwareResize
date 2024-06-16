@@ -4,9 +4,9 @@
 - [Introduction](#introduction)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Conclusion](#conclusion)
 - [Responsibilities](#responsibilities)
 - [Acknowledgements](acknowledgements)
+- [Conclusion](#conclusion)
 
 ## Abstract
 This project develops an efficient algorithm for identifying the minimum vertical seam to be removed from an image. 
