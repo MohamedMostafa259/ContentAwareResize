@@ -5,6 +5,7 @@
 - [Methodology](#methodology)
 - [Results](#results)
 - [Conclusion](#conclusion)
+- [Responsibilities](#responsibilities)
 - [Acknowledgements](acknowledgements)
 
 ## Abstract
@@ -33,6 +34,12 @@ We provide detailed performance metrics and visualizations to illustrate the alg
  - ### Example:
    ![Example 2](https://github.com/MohamedMostafa259/ContentAwareResize_GUI/blob/main/Examples/Example2.png)
 
+## Responsibilities
+I developed two versions of the algorithm, but my teaching assistants, in the Algorithms and Design Analysis course at Egypt University of Informatics, provided the remaining files (The only file I edited is [ContentAwareResize.cs](https://github.com/MohamedMostafa259/ContentAwareResize_GUI/blob/main/ContentAwareResize/ContentAwareResize.cs)).
+
+## Acknowledgements
+I would like to thank my colleague, [Mohamed Ibrahim](https://github.com/22-101058), for his assistance and support in this project.
+
 ## Conclusion
 In conclusion, our study presents a novel algorithm for efficiently identifying the minimum vertical 
 seam in images. By leveraging dynamic programming techniques, we implemented a very efficient algorithm in terms of memory and time complexities. 
@@ -41,6 +48,3 @@ The proposed algorithm holds promise for enhancing various image processing appl
    [click here](https://drive.google.com/file/d/1RDOiqiy65Fe-iIIqBnbIfcEI6h8fVrug/view?usp=drive_link) to see the 9-minute project demo.
    My part is from $5:21$ to the end, explaining why my 2nd version of the algorithm is more efficient than the 1st one.
    An example of the program's output is from $5:05$ to $5:18$
-## Acknowledgements
-- I developed two versions of the algorithm, and my teaching assistants in the Algorithms and Design Analysis course at Egypt University of Informatics provided the remaining files (The only file I edited is [ContentAwareResize.cs](https://github.com/MohamedMostafa259/ContentAwareResize_GUI/blob/main/ContentAwareResize/ContentAwareResize.cs)).
-- I would like to thank my colleague, [Mohamed Ibrahim](https://github.com/22-101058), for his assistance and support in this project.
